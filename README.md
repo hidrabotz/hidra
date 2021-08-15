@@ -1,4 +1,4 @@
-# ☄️✨𝑩𝑹⃟𝑰𝒁𝑨𝑺 𝑶⃟𝑹𝑰𝑶𝑵✨☄️
+# ☄️✨𝑯𝑰𝑫𝑹𝑨 𝑫𝑰𝑴𝑬𝑵𝑺𝑰𝑶𝑵✨☄️
 <h1 align="center">
     <p>
         <img src= "https://thumbs.gfycat.com/ComplexSourKakapo-size_restricted.gif">
@@ -18,24 +18,23 @@
 - [O que é?](#🤔-O-que-é-?)
 - [Instalação](#⬇️-Instalação)
 - [Mudando as configurações](#🙋‍♂️-Como-mudar-as-configurações-do-bot)
-- [Donate](#🥺-Donate)
 - [Contatos](#🤝-Contato)
 - [Contruibuição](#Contribuição)
 
 # 🤔 O que é ?
 
-O Brizas bot é um bot com a base do [MhankBars](https://github.com/MhankBarBar/termux-wabot) com api principal do wpp web feita pelo [adiwajshing](https://github.com/adiwajshing/Baileys) e sua equipe. O bot foi modificado e adicionado diversos comandos que foram desenvolvido principalmente para satisfazer o povo brasileiro, com gerador de cidadão, CPF, e CC, e muito mais. Se inscreva no meu canal do [Youtube](https://www.youtube.com/channel/UCK_e0brrGXeXk-zg2NFbJTg) para saber mais sobre o Brizas Orion e de como instalá-lo
+O Hidra bot é um bot com a base do [MhankBars](https://github.com/MhankBarBar/termux-wabot) com api principal do wpp web feita pelo [adiwajshing](https://github.com/adiwajshing/Baileys) e sua equipe. O bot foi modificado e adicionado diversos comandos que foram desenvolvido principalmente para satisfazer o povo brasileiro, com gerador de cidadão, CPF, e CC, e muito mais. Se inscreva no meu canal do [Youtube](https://www.youtube.com/channel/UCK_e0) para saber mais sobre o Hidra Dimension e de como instalá-lo
 
 ---
 # 🔄 Atualizar automaticamente
 ```
-cd Brizas-bot
+cd hidra1
 sh update.sh
 ```
 ---
 # 🌐 Logando e deslogando do wpp web
 ```
-cd Brizas-bot
+cd hidra
 node reset.js
 
 (para logar de novo)
@@ -49,8 +48,8 @@ node index.js
 [Termux](https://play.google.com/store/apps/details?id=com.termux&hl=pt_BR&gl=US)
 
 ```
-git clone https://github.com/ianmsfvenom/Brizas-bot
-cd Brizas-bot
+git clone https://github.com/hidrabotz/hidra.git
+cd hidra
 bash install.sh
 npm install
 
@@ -68,7 +67,7 @@ pm2 start index.js
 # 🙋‍♂️ Como mudar as configurações do bot
 ```
 cd
-cd Brizas-bot
+cd hidra
 apt install nano
 nano config.js
 
@@ -125,8 +124,8 @@ Pix
 ---
 # 🤝 Contato
 
-[Whatsapp](https://api.whatsapp.com/send/?phone=%2B557187645787&text&app_absent=0)
+[Whatsapp](https://api.whatsapp.com/send/?phone=%2B5567996005372&text&app_absent=0)
 
-[Youtube](https://www.youtube.com/channel/UCK_e0brrGXeXk-zg2NFbJTg)
+
 
 
